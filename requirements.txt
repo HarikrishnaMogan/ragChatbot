@@ -1,0 +1,15 @@
+streamlit>=1.40.0
+pypdf>=4.0.0
+docx2txt>=0.8
+pydantic>=2.12.0
+pydantic-settings>=2.7.0
+chromadb>=1.5.9
+protobuf~=4.25.0
+langchain-core>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-chroma>=0.2.0
+langchain-groq>=0.2.0
+torch
+torchvision
+langchain-huggingface[full]>=1.2.0
+langchain

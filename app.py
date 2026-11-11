@@ -173,7 +173,7 @@ def main():
         )
         groq_model = st.selectbox(
             "Groq model",
-            ["llama-3.1-8b-instant", "llama-3.3-70b-versatile", "gemma2-9b-it"],
+            ["openai/gpt-oss-120b", "qwen/qwen3.8-27b"],
             index=0,
         )
 
